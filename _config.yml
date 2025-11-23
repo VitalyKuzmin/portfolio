@@ -1,3 +1,1 @@
-theme: jekyll-theme-minimal
-minima:
-  skin: dark
+remote_theme: yaoyao-liu/minimal-light
