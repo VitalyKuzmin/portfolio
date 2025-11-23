@@ -2,9 +2,9 @@ remote_theme: jekyll/minima
 minima:
   skin: dark
   nav_pages:
-    - prjs/hAi.md
-    - prjs/Light-in-Night.md
-    - prjs/Web-Services.md
-    - prjs/Inventarisation.md
-    - prjs/BL-Bio.md
-    - prjs/MSL.Mapping.md
+    - /prjs/hAi.md
+    - /prjs/Light-in-Night.md
+    - /prjs/Web-Services.md
+    - /prjs/Inventarisation.md
+    - /prjs/BL-Bio.md
+    - /prjs/MSL.Mapping.md
