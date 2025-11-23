@@ -1,0 +1,14 @@
+@import "{{ site.theme }}";  // подключаем стандартную тему
+
+body {
+  background-color: #0d1117;   // тёмный фон, как у GitHub dark
+  color: #e6edf3;              // светлый текст
+}
+
+a {
+  color: #79c0ff;              // ссылка как на GitHub
+}
+
+a:hover {
+  text-decoration: underline;
+}
