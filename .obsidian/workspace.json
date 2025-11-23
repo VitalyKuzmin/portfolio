@@ -11,10 +11,14 @@
             "id": "89df06b6bb332f99",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -150,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "path.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of path"
+              "title": "Outline of README"
             }
           }
         ]
@@ -177,9 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "8c9e46bec036eafd",
+  "active": "89df06b6bb332f99",
   "lastOpenFiles": [
+    "prjs/Web-Services.md",
+    "prjs/MSL.Mapping.md",
+    "prjs/Light-in-Night.md",
+    "prjs/hAi.md",
+    "prjs/BL-Bio.md",
     "README.md",
+    "prjs/Inventarisation.md",
+    "path.md",
     "portfolio/README.md",
     "portfolio",
     "resume.md",
@@ -187,12 +200,6 @@
     "tutu/resume.md",
     "tutu/vakansy.md",
     "tutu/plan.md",
-    "path.md",
-    "reference.md",
-    "prjs/BL-Bio.md",
-    "prjs/Light-in-Night.md",
-    "prjs/Web-Services.md",
-    "prjs/Inventarisation.md",
-    "prjs/hAi.md"
+    "reference.md"
   ]
 }
