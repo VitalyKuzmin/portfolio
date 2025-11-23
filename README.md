@@ -2,7 +2,7 @@
 
 Team Lead / Backend Lead (Python, LLM) 
 
-`Telegram:` [@MostYes](https://t.me/MostYes) `Email:` [viton930@gmail.com](mailto:viton930@gmail.com) `Телефон:` [+7 980 463-55-05](tel:+79804635505) `Удаленная работа`
+`Telegram:` [@MostYes](https://t.me/MostYes) `Email:` [viton930@gmail.com](mailto:viton930@gmail.com) `Телефон:` [+7 980 463-55-05](tel:+79804635505) `удаленная работа`
 
 ### Ключевая информация
 
@@ -53,11 +53,11 @@ Team Lead с 8+ годами в разработке и более чем 4-ле
 
 ### Навыки
 
-- **Управление:** Руководство командой (10+ человек), Agile (Scrum, Kanban), найм и развитие сотрудников, формирование роадмапов, управление продуктом, Jira, Notion, Gitlab.
+- **Управление:** Руководство командой (10+ человек), Agile (Scrum, Kanban), найм и развитие сотрудников, формирование роадмапов, управление продуктом, проведение семинаров и презентаций, Jira, Notion, Gitlab
 - **Backend:** Python (FastAPI, LangChain), C++, Docker, PostgreSQL, SQLAlchemy, Redis, REST, gRPC.
 - **AI/LLM:** OpenAI API, Gemini, LangChain, RAG, AI-агенты, Vector DB, Whisper, TTS.
 - **Frontend:** React, TypeScript, Electron.
-- **DevOps & Tools:** CI/CD (Gitlab Actions), Git, Elasticsearch, Kibana, Grafana, Prometheus.
+- **DevOps & Tools:** CI/CD (Gitlab Actions), Git, Elasticsearch, Kibana, Grafana, Prometheus, OpenShift, Redis, ClickHouse
 
 ---
 
