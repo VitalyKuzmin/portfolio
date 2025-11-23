@@ -1,10 +1,4 @@
 remote_theme: jekyll/minima
 minima:
   skin: dark
-  nav_pages:
-    - hAi.md
-    - Light-in-Night.md
-    - Web-Services.md
-    - Inventarisation.md
-    - BL-Bio.md
-    - MSL.Mapping.md
+  hide_site_feed_link: true
