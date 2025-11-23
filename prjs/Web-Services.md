@@ -1,4 +1,4 @@
-![alt text](img/5.jpg)
+![alt text](/img/5.jpg)
 
 ### Онлайн-калькуляторы (Galad.ru)
 
