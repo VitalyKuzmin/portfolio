@@ -1,3 +1,5 @@
+### Виталий Кузьмин
+
 Team Lead / Backend Lead (Python, LLM) 
 
 `Telegram:` [@MostYes](https://t.me/MostYes) `Email:` [viton930@gmail.com](mailto:viton930@gmail.com) `Телефон:` [+7 980 463-55-05](tel:+79804635505)
