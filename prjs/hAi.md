@@ -1,4 +1,4 @@
-![alt text](../img/7.jpg)
+![alt text](/img/7.jpg)
 
 ### hAi — Desktop AI-ассистент
 

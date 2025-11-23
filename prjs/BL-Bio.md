@@ -1,4 +1,4 @@
-![alt text](../img/4.jpg)
+![alt text](/img/4.jpg)
 
 ### БЛ Био — Мониторинг теплиц
 
