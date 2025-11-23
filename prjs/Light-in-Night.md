@@ -1,4 +1,4 @@
-![alt text](/img/6.jpg)
+![alt text](img/6.jpg)
 
 ### Light in Night Pro — Desktop-приложение для проектирования освещения
 

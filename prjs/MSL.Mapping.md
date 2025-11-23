@@ -1,4 +1,4 @@
-![alt text](/img/2.jpg)
+![alt text](img/2.jpg)
 
 ### МСЛ Картирование
 
