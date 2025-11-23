@@ -3,3 +3,6 @@ minima:
   skin: dark
   hide_site_feed_link: true
   show_excerpts: false
+author:
+  name: Vitaliy Kuzmin
+  email: "viton930@gmail.com"
