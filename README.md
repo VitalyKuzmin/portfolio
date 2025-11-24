@@ -1,5 +1,4 @@
 ### Виталий Кузьмин
-1993  
 
 Team Lead / Backend Lead (Python, LLM) 
 
