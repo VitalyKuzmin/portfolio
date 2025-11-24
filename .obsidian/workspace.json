@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BL-Bio.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BL-Bio"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BL-Bio.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for BL-Bio"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BL-Bio.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from BL-Bio"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BL-Bio.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BL-Bio"
+              "title": "Outline of README"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "89df06b6bb332f99",
   "lastOpenFiles": [
+    "BL-Bio.md",
     "feed.md",
     "Web-Services.md",
     "README.md",
@@ -192,7 +193,6 @@
     "Light-in-Night.md",
     "Inventarisation.md",
     "hAi.md",
-    "BL-Bio.md",
     "img/9.jpg",
     "img/8.jpg",
     "img/7.jpg",
