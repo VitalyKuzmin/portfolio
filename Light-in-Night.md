@@ -1,5 +1,5 @@
 ![alt text](img/6.jpg)
-[Ссылка на сайт](https://l-i-n.ru)  
+[Ссылка на сайт проекта](https://l-i-n.ru)  
 
 ### Light in Night Pro — Desktop-приложение для проектирования освещения
 

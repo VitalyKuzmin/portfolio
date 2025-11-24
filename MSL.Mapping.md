@@ -1,5 +1,5 @@
 ![alt text](img/2.jpg)
-[Ссылка на сайт](https://vnisi.ru/ispytaniya/mobile/)  
+[Ссылка на сайт проекта](https://vnisi.ru/ispytaniya/mobile/)  
 
 ### МСЛ Картирование
 

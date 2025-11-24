@@ -1,5 +1,5 @@
 ![alt text](img/3.jpg)
-[Ссылка на сайт](https://idc-blg.ru/inventory)  
+[Ссылка на сайт проекта](https://idc-blg.ru/inventory)  
 
 ### Инвентаризация объектов освещения
 
