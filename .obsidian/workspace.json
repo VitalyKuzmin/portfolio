@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Light-in-Night.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Light-in-Night"
+            }
+          },
+          {
+            "id": "10acf9cecad366e1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,15 +196,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "89df06b6bb332f99",
+  "active": "10acf9cecad366e1",
   "lastOpenFiles": [
     "MSL.Mapping.md",
-    "Inventarisation.md",
     "Light-in-Night.md",
+    "Inventarisation.md",
+    "Web-Services.md",
     "README.md",
     "BL-Bio.md",
     "feed.md",
-    "Web-Services.md",
     "hAi.md",
     "img/9.jpg",
     "img/8.jpg",
