@@ -56,7 +56,7 @@ Team Lead с 8+ годами в разработке и более чем 4-ле
 
 - **Управление:** Руководство командой (10+ человек), Agile (Scrum, Kanban), найм и развитие сотрудников, формирование роадмапов, управление продуктом, проведение семинаров и презентаций, Jira, Notion, Gitlab
 - **Backend:** Python (FastAPI, LangChain), C++, Docker, PostgreSQL, SQLAlchemy, Redis, REST, gRPC.
-- **AI & ML:** LightGBM, OpenAI API, Gemini, LangChain, RAG, AI-агенты, Vector DB, Whisper, TTS.
+- **AI & ML:** LightGBM, OpenAI API, Gemini, LangChain, RAG, LanceDB, LiveKit.
 - **Frontend:** React, TypeScript, Electron.
 - **DevOps & Tools:** CI/CD (Gitlab Actions), Git, Elasticsearch, Kibana, Grafana, Prometheus, OpenShift, Redis, ClickHouse
 
