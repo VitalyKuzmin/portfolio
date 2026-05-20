@@ -4,8 +4,6 @@ minima:
   skin: dark
   hide_site_feed_link: true
   show_excerpts: false
-  social_links:
-    - { platform: linkedin, user_url: "https://www.linkedin.com/in/vitaliy-kuzmin-b61763402" }
 author:
   name: Vitaliy Kuzmin
   email: "viton930@gmail.com"
