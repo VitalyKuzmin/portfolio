@@ -1,5 +1,11 @@
 description: "2026"
 remote_theme: jekyll/minima
+header_pages:
+  - Axioma AI.md
+  - hAi.md
+  - Smart Publish.md
+  - Urban Lighting Platform.md
+  - Light-in-Night.md
 minima:
   skin: dark
   hide_site_feed_link: true
