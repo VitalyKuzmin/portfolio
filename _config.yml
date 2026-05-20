@@ -1,5 +1,10 @@
 description: "2026"
 remote_theme: jekyll/minima
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
 minima:
   skin: dark
   hide_site_feed_link: true
