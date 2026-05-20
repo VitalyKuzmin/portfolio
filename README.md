@@ -65,4 +65,4 @@ Senior AI Architect and Full Stack Engineer with 8+ years of experience building
 
 **Moscow Power Engineering Institute (MPEI)**
 
-- Master's Degree, Electronics and Nanoelectronics - 2018
+*Master's Degree, Electronics and Nanoelectronics - 2018*
