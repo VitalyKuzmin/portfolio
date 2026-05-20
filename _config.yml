@@ -3,5 +3,7 @@ minima:
   skin: dark
   hide_site_feed_link: true
   show_excerpts: false
+author:
+  github: "https://github.com/VitalyKuzmin/portfolio"
 
 google_analytics: G-CEX9LP3BVB
