@@ -2,7 +2,12 @@
 
 **Senior AI Architect / Lead AI Engineer**
 
-`Email:` [viton930@gmail.com](mailto:viton930@gmail.com) | `LinkedIn:` [Vitaliy Kuzmin](https://www.linkedin.com/in/vitaliy-kuzmin-b61763402) | `Location:` Tbilisi, Georgia | `Open to:` Remote / B2B
+<div class="contact-line">
+  <span><code>Email:</code> <a href="mailto:viton930@gmail.com">viton930@gmail.com</a></span>
+  <span><code>LinkedIn:</code> <a href="https://www.linkedin.com/in/vitaliy-kuzmin-b61763402">Vitaliy Kuzmin</a></span>
+  <span><code>Location:</code> Tbilisi, Georgia</span>
+  <span><code>Open to:</code> Remote / Full-time / Contract</span>
+</div>
 
 **Summary**
 
