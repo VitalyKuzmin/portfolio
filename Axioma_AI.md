@@ -31,13 +31,15 @@ The platform is built as a private AI layer around enterprise data, domain docum
 - Designed norm-control workflows to validate generated outputs against business and regulatory requirements.
 - Integrated the assistant with enterprise APIs and internal services.
 - Deployed local LLM infrastructure on company servers for private, on-premise usage.
+- Set up Docker-based deployment workflows, CI/CD pipelines, and DevOps processes in coordination with system administrators.
+- Introduced a context-driven development workflow with architecture docs, global prompts, agent instructions, reusable skills, and project knowledge maintained alongside the codebase.
 
 ### Stack
 
-Python, FastAPI, LangGraph, LangChain, LlamaIndex, RAG, SQL agents, LiteLLM, Langfuse, PostgreSQL, Docker, local LLMs, Ollama, vLLM, REST APIs, Grafana, Prometheus, Loki.
+Python, FastAPI, LangGraph, LangChain, LlamaIndex, RAG, SQL agents, LiteLLM, Langfuse, PostgreSQL, Docker, CI/CD, local LLMs, Ollama, vLLM, REST APIs, Grafana, Prometheus, Loki.
 
 ### My Role
 
-Lead AI Engineer / AI Platform Architect. I am responsible for architecture, backend implementation, agent design, local model infrastructure, technical direction, and coordination of the AI development work.
+Lead AI Engineer / AI Platform Architect. I am responsible for architecture, backend implementation, agent design, local model infrastructure, deployment workflows, technical direction, and coordination of the AI development work.
 
 I work with backend engineers, QA, product stakeholders, and domain experts while owning the AI architecture, core implementation, and technical direction of the assistant platform.

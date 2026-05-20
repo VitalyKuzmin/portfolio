@@ -17,7 +17,8 @@ Senior AI Architect and Full Stack Engineer with 8+ years of experience building
 
 - Lead development of **Axioma AI**, an enterprise AI assistant platform for asset management workflows in the energy domain.
 - Architected LangGraph-based multi-agent workflows for SQL, norm-control, and domain RAG pipelines.
-- Deployed private local LLM infrastructure, model routing, observability, and enterprise API integrations.
+- Deployed private local LLM infrastructure, model routing, observability, Docker-based deployment, CI/CD, and enterprise API integrations.
+- Introduced context-driven development with architecture docs, global prompts, agent instructions, reusable skills, and project knowledge maintained alongside the codebase.
 - **Business Impact:** Reduced manual navigation across enterprise data and documentation by up to 50% in target workflows.
 
 **Founder & Lead AI Developer**  
@@ -47,7 +48,7 @@ Senior AI Architect and Full Stack Engineer with 8+ years of experience building
 ### Skills
 
 - **AI & LLM:** LangGraph, LangChain, LlamaIndex, RAG, SQL agents, multi-agent systems, MCP, local LLMs, Ollama, LiteLLM, Langfuse, prompt engineering.
-- **Backend & Infrastructure:** Python, FastAPI, REST, gRPC, Docker, PostgreSQL, Redis, vector databases, LanceDB, FastEmbed, OpenTelemetry.
+- **Backend & Infrastructure:** Python, FastAPI, REST, gRPC, Docker, CI/CD, DevOps, PostgreSQL, Redis, vector databases, LanceDB, FastEmbed, OpenTelemetry.
 - **Leadership:** architecture, team leadership, hiring, mentoring, product planning, Agile/Scrum/Kanban.
 
 ### Education

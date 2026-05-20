@@ -26,7 +26,8 @@ Senior AI Architect and Full Stack Engineer with 8+ years of experience building
 - Leading the development of [Axioma AI](Axioma_AI.md), an enterprise AI assistant platform for the Axioma asset management system used in the energy domain.
 - **Multi-Agent Orchestration:** Architected a multi-agent system using LangGraph, integrating specialized agents for SQL, norm-control, and domain RAG pipelines.
 - **Private AI Infrastructure:** Deployed and optimized local LLM infrastructure on company servers, enabling private AI usage without sending sensitive enterprise data to external services.
-- **Open-Source AI Platform:** Built the solution around open-source AI infrastructure, model routing, observability, and enterprise API integrations.
+- **AI Platform Engineering:** Built the solution around open-source AI infrastructure, model routing, observability, CI/CD, Docker-based deployment, and enterprise API integrations.
+- **Context-Driven Development:** Organized architecture docs, global prompts, agent instructions, reusable skills, and project knowledge alongside the codebase to support AI-assisted engineering.
 - **Business Impact:** Reduced manual navigation across enterprise data and documentation by up to 50% in target workflows and expanded AI-assisted analytics and planning with a broader set of enterprise data sources.
 - Tech Stack: Python, FastAPI, LangGraph, LangChain, LlamaIndex, local LLMs, Ollama, LiteLLM, Langfuse, RAG, SQL agents, PostgreSQL, Docker.
 
@@ -63,7 +64,7 @@ Senior AI Architect and Full Stack Engineer with 8+ years of experience building
 
 - **AI & LLM:** LangGraph, LangChain, LlamaIndex, RAG, SQL agents, multi-agent systems, MCP, local LLMs, Ollama, LiteLLM, LiveKit, prompt engineering, Langfuse.
 - **Backend & Architecture:** Python, FastAPI, system design, microservices, REST, gRPC, Docker, PostgreSQL, Redis.
-- **Infrastructure & Data:** private/on-premise AI deployment, local model optimization, vector databases, LanceDB, FastEmbed, OpenTelemetry.
+- **Infrastructure & Data:** private/on-premise AI deployment, local model optimization, CI/CD, DevOps, vector databases, LanceDB, FastEmbed, OpenTelemetry.
 - **Leadership:** team leadership, hiring, mentoring, Agile/Scrum/Kanban, product architecture, roadmap planning.
 
 ### Education
