@@ -6,6 +6,7 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-.post-header {
+.post-header,
+.page-heading {
   display: none;
 }
