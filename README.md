@@ -27,7 +27,7 @@ Senior AI Architect and Full Stack Engineer with 8+ years of experience building
 - **Multi-Agent Orchestration:** Architected a multi-agent system using LangGraph, integrating specialized agents for SQL, norm-control, and domain RAG pipelines.
 - **Private AI Infrastructure:** Deployed and optimized local LLM infrastructure on company servers, enabling private AI usage without sending sensitive enterprise data to external services.
 - **Open-Source AI Platform:** Built the solution around open-source AI infrastructure, model routing, observability, and enterprise API integrations.
-- **Business Impact:** Reduced manual navigation across enterprise data and documentation by up to 50% in target workflows.
+- **Business Impact:** Reduced manual navigation across enterprise data and documentation by up to 50% in target workflows and expanded AI-assisted analytics and planning with a broader set of enterprise data sources.
 - Tech Stack: Python, FastAPI, LangGraph, LangChain, LlamaIndex, local LLMs, Ollama, LiteLLM, Langfuse, RAG, SQL agents, PostgreSQL, Docker.
 
 **Founder & Lead AI Developer**  
@@ -46,7 +46,7 @@ Senior AI Architect and Full Stack Engineer with 8+ years of experience building
 - Architected an automated publishing workflow for raw news drafts from multiple channels, including email and Telegram.
 - Designed the LLM processing pipeline for structuring, rewriting, editing, formatting, and preparing publication metadata, helping prepare multi-channel publications from a single draft.
 - Integrated the platform with a client CMS through an API and prepared the workflow for social media distribution.
-- **Business Impact:** Reduced repetitive editorial preparation and formatting work by up to 60%.
+- **Business Impact:** Reduced repetitive editorial preparation and formatting work by up to 60% and improved content consistency through channel-specific adaptation for websites and social platforms.
 - Tech Stack: Python, FastAPI, OpenAI API, Telegram API, REST APIs, CMS integrations, n8n, prompt engineering.
 
 **Team Lead / Lead Software Engineer**  
