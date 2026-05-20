@@ -24,9 +24,10 @@ Senior AI Architect and Full Stack Engineer with 8+ years of experience building
 *InterProCom | Feb 2025 - Present*
 
 - Leading the development of [Axioma AI](Axioma_AI.md), an enterprise AI assistant platform for the Axioma asset management system used in the energy domain.
-- **Multi-Agent Orchestration:** Architected a multi-agent system using LangGraph, integrating specialized sub-agents for SQL, norm-control, and domain RAG pipelines to help users navigate and edit enterprise data.
-- **Private AI Infrastructure:** Deployed and optimized local LLM infrastructure on company servers to support private, on-premise usage.
+- **Multi-Agent Orchestration:** Architected a multi-agent system using LangGraph, integrating specialized agents for SQL, norm-control, and domain RAG pipelines.
+- **Private AI Infrastructure:** Deployed and optimized local LLM infrastructure on company servers, enabling private AI usage without sending sensitive enterprise data to external services.
 - **Open-Source AI Platform:** Built the solution around open-source AI infrastructure, model routing, observability, and enterprise API integrations.
+- **Business Impact:** Reduced manual navigation across enterprise data and documentation by up to 50% in target workflows.
 - Tech Stack: Python, FastAPI, LangGraph, LangChain, LlamaIndex, local LLMs, Ollama, LiteLLM, Langfuse, RAG, SQL agents, PostgreSQL, Docker.
 
 **Founder & Lead AI Developer**  
@@ -42,18 +43,20 @@ Senior AI Architect and Full Stack Engineer with 8+ years of experience building
 *BL Group R&D Center | Jun 2022 - Feb 2025*
 
 - Led the development of [Smart Publish](Smart_Publish.md), an AI-assisted publishing platform, moving the idea from an early prototype toward a working LLM-powered product.
-- Architected an automated publishing workflow that ingested raw news drafts from multiple channels, including email and Telegram.
-- Designed the LLM processing pipeline for structuring, rewriting, editing, formatting, and preparing publication metadata.
+- Architected an automated publishing workflow for raw news drafts from multiple channels, including email and Telegram.
+- Designed the LLM processing pipeline for structuring, rewriting, editing, formatting, and preparing publication metadata, helping prepare multi-channel publications from a single draft.
 - Integrated the platform with a client CMS through an API and prepared the workflow for social media distribution.
+- **Business Impact:** Reduced repetitive editorial preparation and formatting work by up to 60%.
 - Tech Stack: Python, FastAPI, OpenAI API, Telegram API, REST APIs, CMS integrations, n8n, prompt engineering.
 
 **Team Lead / Lead Software Engineer**  
 *BL-Group | Jul 2018 - Jun 2022*
 
 - Grew from Full Stack Developer to Team Lead, managing cross-functional teams of up to 10 engineers across C++, Python, frontend, QA, design, and analytics.
-- **ML Reconstruction Platform:** Led the development of [Urban Lighting](Urban_Lighting.md), combining field inventory, mobile laboratory measurements, geospatial mapping, feature engineering, and LightGBM-based illuminance prediction for reconstruction planning.
+- **ML Reconstruction Platform:** Led the development of [Urban Lighting](Urban_Lighting.md), making field data reusable across reconstruction planning projects.
 - **Enterprise Automation:** Automated field data collection, lighting asset mapping, reconstruction analytics, and tender documentation workflows.
-- **Product Development:** Led development processes for [Light in Night](Light-in-Night.md), a professional lighting calculation and design application, and built Python backend services for online calculators.
+- **Product Development:** Led development processes for [Light in Night](Light-in-Night.md), scaling the engineering team to 10+ people and improving release predictability.
+- **Business Impact:** Accelerated field data collection and processing by up to 60%, reduced repeat city survey visits by up to 70%, and removed dependency on an external map-markup contractor.
 - Tech Stack: Python, Node.js, C++, Docker, PostgreSQL, LightGBM, GitLab CI/CD, React/Vue.
 
 ### Skills
