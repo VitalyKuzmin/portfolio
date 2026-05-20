@@ -10,10 +10,10 @@ minima:
   hide_site_feed_link: true
   show_excerpts: false
   nav_pages:
-    - Axioma AI.md
+    - Axioma_AI.md
     - hAi.md
-    - Smart Publish.md
-    - Urban Lighting.md
+    - Smart_Publish.md
+    - Urban_Lighting.md
     - Light-in-Night.md
 author:
   name: Vitaliy Kuzmin
