@@ -1,10 +1,7 @@
-description: "Portfolio Team Lead / Backend Lead"
 remote_theme: jekyll/minima
 minima:
   skin: dark
   hide_site_feed_link: true
   show_excerpts: false
-author:
-  email: "viton930@gmail.com"
 
 google_analytics: G-CEX9LP3BVB
