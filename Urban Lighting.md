@@ -1,4 +1,4 @@
-# Urban Lighting Platform
+# Urban Lighting
 
 An urban lighting data and ML platform for field inventory, mobile laboratory measurements, geospatial mapping, and LightGBM-based reconstruction planning.
 
