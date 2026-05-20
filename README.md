@@ -2,9 +2,9 @@
 
 **Senior AI Architect / Lead AI Engineer**
 
-| Email | LinkedIn | Location | Open to |
-| --- | --- | --- | --- |
-| [viton930@gmail.com](mailto:viton930@gmail.com) | [Vitaliy Kuzmin](https://www.linkedin.com/in/vitaliy-kuzmin-b61763402) | Tbilisi, Georgia | Remote / Full-time / Contract |
+| CV            | Email                                           | LinkedIn                                                               | Location         | Open to                       |
+| ------------- | ----------------------------------------------- | ---------------------------------------------------------------------- | ---------------- | ----------------------------- |
+| [PDF](CV.pdf) | [viton930@gmail.com](mailto:viton930@gmail.com) | [Vitaliy Kuzmin](https://www.linkedin.com/in/vitaliy-kuzmin-b61763402) | Tbilisi, Georgia | Remote / Full-time / Contract |
 
 **Summary**
 
@@ -68,6 +68,4 @@ Senior AI Architect and Full Stack Engineer with 8+ years of experience building
 
 ### Education
 
-**Moscow Power Engineering Institute (MPEI)**
-
-- *Master's Degree, Electronics and Nanoelectronics - 2018*
+- **Moscow Power Engineering Institute (MPEI)** — Master's Degree, Electronics and Nanoelectronics, 2018
