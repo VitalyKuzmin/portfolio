@@ -39,7 +39,7 @@ Senior AI Architect and Full Stack Engineer with 8+ years of experience building
 - Tech Stack: Python, FastAPI, LangGraph, LangChain, LiveKit, React, Electron, SQLite, LanceDB, ActivityWatch, MCP, Ollama.
 
 **Lead AI Engineer**  
-*AI Outsourcing Company | Apr 2023 - Feb 2025*
+*BL Group R&D Center | Jun 2022 - Feb 2025*
 
 - Led the development of [Smart Publish](Smart_Publish.md), an AI-assisted publishing platform, moving the idea from an early prototype toward a working LLM-powered product.
 - Architected an automated publishing workflow that ingested raw news drafts from multiple channels, including email and Telegram.
@@ -48,7 +48,7 @@ Senior AI Architect and Full Stack Engineer with 8+ years of experience building
 - Tech Stack: Python, FastAPI, OpenAI API, Telegram API, REST APIs, CMS integrations, n8n, prompt engineering.
 
 **Team Lead / Lead Software Engineer**  
-*BL-Group | Jan 2018 - Apr 2023*
+*BL-Group | Jul 2018 - Jun 2022*
 
 - Grew from Full Stack Developer to Team Lead, managing cross-functional teams of up to 10 engineers across C++, Python, frontend, QA, design, and analytics.
 - **ML Reconstruction Platform:** Led the development of [Urban Lighting](Urban_Lighting.md), combining field inventory, mobile laboratory measurements, geospatial mapping, feature engineering, and LightGBM-based illuminance prediction for reconstruction planning.
