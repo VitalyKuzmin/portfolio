@@ -8,7 +8,7 @@
 
 **Summary**
 
-Senior AI Architect and Full Stack Engineer with 8+ years of experience building complex software systems and 2+ years focused on LLM orchestration, RAG, AI agents, local/on-premise models, and enterprise AI platforms.
+Senior AI Architect and Full Stack Engineer with 8+ years of experience building complex software systems and 3+ years focused on LLM orchestration, RAG, AI agents, local/on-premise models, and enterprise AI platforms.
 
 ### Experience
 
