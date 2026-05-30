@@ -7,7 +7,7 @@ Senior Agentic AI Engineer | Tbilisi, Georgia | Remote / Full-time / Contract
 
 Senior Agentic AI Engineer and Full Stack Engineer with 8+ years of experience building complex software systems and 3+ years focused on LLM orchestration, RAG, AI agents, local/on-premise models, and enterprise AI platforms.
 
-Experienced in building practical AI systems around real business workflows: multi-agent orchestration, private AI infrastructure, domain RAG, SQL agents, local LLM deployment, observability, enterprise API integrations, and technical leadership.
+Experienced in building practical AI systems around real business workflows: multi-agent orchestration, private AI infrastructure, domain RAG, SQL agents, LLM evaluation, local LLM deployment, observability, enterprise API integrations, and technical leadership.
 
 ## Career Highlights
 
@@ -17,8 +17,8 @@ Experienced in building practical AI systems around real business workflows: mul
 
 ## Skills
 
-- **AI & LLM:** LangGraph, LangChain, LlamaIndex, RAG, SQL agents, multi-agent systems, MCP, local LLMs, Ollama, LiteLLM, Langfuse, prompt engineering.
-- **Backend & Infrastructure:** Python, FastAPI, REST, gRPC, Docker, CI/CD, DevOps, PostgreSQL, Redis, vector databases, LanceDB, FastEmbed, OpenTelemetry.
+- **AI & LLM:** LangGraph, LangChain, LlamaIndex, RAG, SQL agents, multi-agent systems, MCP, local LLMs, Ollama, LiteLLM, Langfuse, LLM-as-a-judge, prompt engineering.
+- **Backend & Infrastructure:** Python, FastAPI, REST, gRPC, Docker, Google Cloud Platform (GCP), CI/CD, DevOps, PostgreSQL, Redis, vector databases, LanceDB, FastEmbed, OpenTelemetry.
 - **Leadership:** architecture, technical leadership, team leadership, hiring, mentoring, product planning, Agile, Scrum, Kanban.
 
 ## Professional Experience
@@ -29,6 +29,7 @@ InterProCom is a leading developer of Enterprise Asset Management (EAM) platform
 
 - Architected Axioma AI, an enterprise AI assistant platform for asset management workflows in the energy domain.
 - Built LangGraph-based multi-agent workflows for SQL, norm-control, and domain RAG over enterprise data and documentation.
+- Designed LLM-as-a-judge and automated evaluation workflows with Langfuse for agent quality control.
 - Integrated AI workflows with internal APIs, structured data, documentation, model routing, observability, and private/on-premise LLM infrastructure.
 - Organized Docker-based deployment, CI/CD, DevOps processes, and context-driven development with architecture docs, global prompts, agent instructions, reusable skills, and project knowledge alongside the codebase.
 - Reduced manual navigation across enterprise data and documentation by up to 50% in target workflows and expanded AI-assisted analytics with broader enterprise data sources.
@@ -57,9 +58,9 @@ BL Group built engineering software products for lighting design, lighting calcu
 
 ## Selected Projects
 
-- **Axioma AI**: enterprise AI assistant platform using LangGraph, RAG, SQL agents, local LLM infrastructure, observability, and private/on-premise deployment.
-- **hAi**: local-first desktop AI assistant and personal R&D environment for AI agents, memory, voice interaction, local models, MCP, and desktop context.
-- **Smart Publish**: AI-assisted publishing workflow for draft intake, content generation, channel-specific adaptation, review, scheduling, CMS publishing, and social distribution.
+- **Axioma AI**: enterprise AI assistant platform using LangGraph, RAG, SQL agents, local LLM infrastructure, Langfuse evaluation, observability, and private/on-premise deployment.
+- **hAi**: local-first desktop AI assistant and personal R&D environment for AI agents, memory, voice interaction, local models, MCP, LLM evaluation, and desktop context.
+- **Smart Publish**: AI-assisted publishing workflow for draft intake, content generation, channel-specific adaptation, review, scheduling, CMS publishing, GCP, and social distribution.
 - **Urban Lighting**: ML reconstruction platform for field inventory, mobile laboratory measurements, geospatial datasets, LightGBM-based prediction, and planning workflows.
 
 ## Education
