@@ -1,14 +1,14 @@
 ### Vitaliy Kuzmin
 
-**Senior AI Architect / Lead AI Engineer**
+**Senior Agentic AI Engineer**
 
 | CV            | Email                                           | LinkedIn                                                               | Location         | Open to                       |
 | ------------- | ----------------------------------------------- | ---------------------------------------------------------------------- | ---------------- | ----------------------------- |
-| [PDF](CV.pdf) | [viton930@gmail.com](mailto:viton930@gmail.com) | [Vitaliy Kuzmin](https://www.linkedin.com/in/vitaliy-kuzmin-b61763402) | Tbilisi, Georgia | Remote / Full-time / Contract |
+| [PDF](CV.pdf) | [viton930@gmail.com](mailto:viton930@gmail.com) | [Vitaliy Kuzmin](https://www.linkedin.com/in/vitaliy-kuzmin-ai-engineer) | Tbilisi, Georgia | Remote / Full-time / Contract |
 
 **Summary**
 
-Senior AI Architect and Full Stack Engineer with 8+ years of experience building complex software systems and 3+ years specializing in LLM orchestration, agentic frameworks, RAG, and private/on-premise AI. Proven track record of transitioning traditional enterprise workflows into AI-driven ecosystems. Founder of [hAi](hAi.md), a local-first AI assistant with a public/open-source release planned. Deeply focused on AI agents, local models, LangGraph, MCP, and practical assistant platforms for real business systems.
+Senior Agentic AI Engineer and Full Stack Engineer with 8+ years of experience building complex software systems and 3+ years specializing in LLM orchestration, agentic frameworks, RAG, LLM evaluation, and private/on-premise AI. Proven track record of transitioning traditional enterprise workflows into AI-driven ecosystems. Founder of [hAi](hAi.md), a local-first AI assistant with a public/open-source release planned. Deeply focused on AI agents, local models, LangGraph, MCP, and practical assistant platforms for real business systems.
 
 ### Selected Projects
 
@@ -26,10 +26,11 @@ Senior AI Architect and Full Stack Engineer with 8+ years of experience building
 - Leading the development of [Axioma AI](Axioma_AI.md), an enterprise AI assistant platform for the Axioma asset management system used in the energy domain.
 - **Multi-Agent Orchestration:** Architected a multi-agent system using LangGraph, integrating specialized agents for SQL, norm-control, and domain RAG pipelines.
 - **Private AI Infrastructure:** Deployed and optimized local LLM infrastructure on company servers, enabling private AI usage without sending sensitive enterprise data to external services.
+- **Evaluation & Observability:** Designed LLM-as-a-judge and automated evaluation workflows with Langfuse for agent quality control.
 - **AI Platform Engineering:** Built the solution around open-source AI infrastructure, model routing, observability, CI/CD, Docker-based deployment, and enterprise API integrations.
 - **Context-Driven Development:** Organized architecture docs, global prompts, agent instructions, reusable skills, and project knowledge alongside the codebase to support AI-assisted engineering.
 - **Business Impact:** Reduced manual navigation across enterprise data and documentation by up to 50% in target workflows and expanded AI-assisted analytics and planning with a broader set of enterprise data sources.
-- Tech Stack: Python, FastAPI, LangGraph, LangChain, LlamaIndex, local LLMs, Ollama, LiteLLM, Langfuse, RAG, SQL agents, PostgreSQL, Docker.
+- Tech Stack: Python, FastAPI, LangGraph, LangChain, LlamaIndex, local LLMs, Ollama, LiteLLM, Langfuse, LLM-as-a-judge, RAG, SQL agents, PostgreSQL, Docker.
 
 **Founder & Lead AI Developer**  
 *[hAi](hAi.md), local-first AI assistant | 2024 - Present*
@@ -38,7 +39,7 @@ Senior AI Architect and Full Stack Engineer with 8+ years of experience building
 - **Core Engine:** Built a distributed local application using Python/FastAPI, agent orchestration, LiveKit for voice interactions, and ActivityWatch for computer activity context.
 - **MCP Integration:** Implemented Model Context Protocol support to allow agents to interact with local tools, files, and external systems.
 - **Local LLM R&D:** Use hAi as a practical environment for Mac Studio inference optimization, local models, AI coding assistants, memory systems, and agent UX.
-- Tech Stack: Python, FastAPI, LangGraph, LangChain, LiveKit, React, Electron, SQLite, LanceDB, ActivityWatch, MCP, Ollama.
+- Tech Stack: Python, FastAPI, LangGraph, LangChain, LiveKit, React, Electron, SQLite, LanceDB, ActivityWatch, MCP, Ollama, Langfuse, GCP.
 
 **Lead AI Engineer**  
 *BL Group R&D Center | Jun 2022 - Feb 2025*
@@ -48,7 +49,7 @@ Senior AI Architect and Full Stack Engineer with 8+ years of experience building
 - Designed the LLM processing pipeline for structuring, rewriting, editing, formatting, and preparing publication metadata, helping prepare multi-channel publications from a single draft.
 - Integrated the platform with a client CMS through an API and prepared the workflow for social media distribution.
 - **Business Impact:** Reduced repetitive editorial preparation and formatting work by up to 60% and improved content consistency through channel-specific adaptation for websites and social platforms.
-- Tech Stack: Python, FastAPI, OpenAI API, Telegram API, REST APIs, CMS integrations, n8n, prompt engineering.
+- Tech Stack: Python, FastAPI, OpenAI API, Telegram API, REST APIs, CMS integrations, Google Cloud Platform (GCP), n8n, prompt engineering.
 
 **Team Lead / Lead Software Engineer**  
 *BL-Group | Jul 2018 - Jun 2022*
@@ -62,8 +63,8 @@ Senior AI Architect and Full Stack Engineer with 8+ years of experience building
 
 ### Skills
 
-- **AI & LLM:** LangGraph, LangChain, LlamaIndex, RAG, SQL agents, multi-agent systems, MCP, local LLMs, Ollama, LiteLLM, LiveKit, prompt engineering, Langfuse.
-- **Backend & Architecture:** Python, FastAPI, system design, microservices, REST, gRPC, Docker, PostgreSQL, Redis.
+- **AI & LLM:** LangGraph, LangChain, LlamaIndex, RAG, SQL agents, multi-agent systems, MCP, local LLMs, Ollama, LiteLLM, LiveKit, prompt engineering, Langfuse, LLM-as-a-judge.
+- **Backend & Architecture:** Python, FastAPI, system design, microservices, REST, gRPC, Docker, Google Cloud Platform (GCP), PostgreSQL, Redis.
 - **Infrastructure & Data:** private/on-premise AI deployment, local model optimization, CI/CD, DevOps, vector databases, LanceDB, FastEmbed, OpenTelemetry.
 - **Leadership:** team leadership, hiring, mentoring, Agile/Scrum/Kanban, product architecture, roadmap planning.
 

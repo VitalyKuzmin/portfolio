@@ -12,7 +12,7 @@ The goal is to build a practical assistant platform that can run locally, use pe
 
 ![hAi concept overview](img/5.jpg)
 
-**Local assistant layer:** desktop app, Python/FastAPI backend, local memory, ActivityWatch context, screenshots, SQLite/LanceDB storage, LiveKit voice services, MCP tools, script execution, local/cloud LLM routing, and AI-assisted development workflows.
+**Local assistant layer:** desktop app, Python/FastAPI backend, local memory, ActivityWatch context, screenshots, SQLite/LanceDB storage, LiveKit voice services, MCP tools, script execution, local/cloud LLM routing, Langfuse-based evaluation experiments, and AI-assisted development workflows.
 
 ### What I Built
 
@@ -23,11 +23,12 @@ The goal is to build a practical assistant platform that can run locally, use pe
 - Built memory and storage concepts with SQLite and LanceDB.
 - Integrated voice-related components through LiveKit and STT/TTS tools.
 - Added MCP support for connecting local tools, files, and external systems.
+- Added LLM evaluation experiments, including LLM-as-a-judge checks and quality tracing through Langfuse.
 - Use the project daily as an R&D environment for local models, Mac Studio inference optimization, agent UX, and AI-assisted development.
 
 ### Stack
 
-Python, FastAPI, Electron, React, TypeScript, LangChain, SQLAlchemy, SQLite, LanceDB, ActivityWatch, LiveKit, MCP, Ollama, OpenAI, Gemini, Whisper, Piper, Moondream.
+Python, FastAPI, Electron, React, TypeScript, LangGraph, LangChain, SQLAlchemy, SQLite, LanceDB, ActivityWatch, LiveKit, MCP, Langfuse, LLM-as-a-judge, Google Cloud Platform (GCP), Ollama, OpenAI, Gemini, Whisper, Piper, Moondream.
 
 ### My Role
 

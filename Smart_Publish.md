@@ -28,11 +28,11 @@ The platform was organized as a predictable publishing pipeline. Input channels 
 - Designed prompt templates and rules for adapting one source draft to different platforms and tones.
 - Implemented a human review loop so users could edit, regenerate, approve, or schedule generated versions before publication.
 - Designed the custom website connector concept with configurable auth, request mapping, media upload, article creation, and response parsing.
-- Connected the workflow to Telegram, email intake, CMS APIs, social publishing APIs, and external context sources.
+- Connected the workflow to Telegram, email intake, CMS APIs, social publishing APIs, Google Cloud Platform services, and external context sources.
 
 ### Stack
 
-Python, FastAPI, OpenAI API, structured prompt orchestration, Telegram API, REST APIs, CMS integrations, social platform APIs, n8n/background jobs, relational database, object storage, configurable connectors.
+Python, FastAPI, OpenAI API, structured prompt orchestration, Telegram API, REST APIs, CMS integrations, social platform APIs, Google Cloud Platform (GCP), n8n/background jobs, relational database, object storage, configurable connectors.
 
 ### My Role
 

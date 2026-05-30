@@ -8,7 +8,7 @@ The goal of the platform is to help users work with a complex enterprise system:
 
 ### Architecture Overview
 
-The platform is built as a private AI layer around enterprise data, domain documentation, and system APIs. It combines RAG, SQL access, norm-control workflows, local LLM infrastructure, and observability into a production-oriented assistant platform.
+The platform is built as a private AI layer around enterprise data, domain documentation, and system APIs. It combines RAG, SQL access, norm-control workflows, local LLM infrastructure, observability, and LLM evaluation into a production-oriented assistant platform.
 
 ![Axioma AI development and production architecture](img/3_1.jpg)
 
@@ -20,7 +20,7 @@ The platform is built as a private AI layer around enterprise data, domain docum
 
 ![Axioma AI monitoring and quality layer](img/3_3.jpg)
 
-**Monitoring layer:** metrics, logs, dashboards, analytics, quality tracing, containers, alerts, and Langfuse-based LLM observability.
+**Monitoring and quality layer:** metrics, logs, dashboards, analytics, quality tracing, LLM-as-a-judge evaluation workflows, containers, alerts, and Langfuse-based LLM observability.
 
 ### What I Built
 
@@ -29,6 +29,7 @@ The platform is built as a private AI layer around enterprise data, domain docum
 - Implemented domain RAG pipelines for documentation, regulations, internal knowledge, and system-specific context.
 - Added a SQL sub-agent for structured data analysis and question answering over enterprise data.
 - Designed norm-control workflows to validate generated outputs against business and regulatory requirements.
+- Designed LLM-as-a-judge and automated evaluation workflows with Langfuse for agent quality control.
 - Integrated the assistant with enterprise APIs and internal services.
 - Deployed local LLM infrastructure on company servers for private, on-premise usage.
 - Set up Docker-based deployment workflows, CI/CD pipelines, and DevOps processes in coordination with system administrators.
@@ -36,7 +37,7 @@ The platform is built as a private AI layer around enterprise data, domain docum
 
 ### Stack
 
-Python, FastAPI, LangGraph, LangChain, LlamaIndex, RAG, SQL agents, LiteLLM, Langfuse, PostgreSQL, Docker, CI/CD, local LLMs, Ollama, vLLM, REST APIs, Grafana, Prometheus, Loki.
+Python, FastAPI, LangGraph, LangChain, LlamaIndex, RAG, SQL agents, LiteLLM, Langfuse, LLM-as-a-judge, automated evaluation pipelines, PostgreSQL, Docker, CI/CD, local LLMs, Ollama, vLLM, REST APIs, Grafana, Prometheus, Loki.
 
 ### My Role
 
