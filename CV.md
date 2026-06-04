@@ -5,7 +5,7 @@ Senior Agentic AI Engineer | Tbilisi, Georgia | Remote / Full-time / Contract
 
 ## Career Profile
 
-Senior Agentic AI Engineer and Full Stack Engineer with 8+ years of experience building complex software systems and 3+ years focused on LLM orchestration, RAG, AI agents, local/on-premise models, and enterprise AI platforms.
+Senior Agentic AI Engineer and Full Stack Engineer with 9+ years of experience building complex software systems and 3+ years focused on LLM orchestration, RAG, AI agents, local/on-premise models, and enterprise AI platforms.
 
 Experienced in building practical AI systems around real business workflows: multi-agent orchestration, private AI infrastructure, domain RAG, SQL agents, LLM evaluation, local LLM deployment, observability, enterprise API integrations, and technical leadership.
 
@@ -46,7 +46,7 @@ BL Group R&D Center was an internal R&D unit focused on software prototypes, aut
 - Contributed to MVP/product experiments before Smart Publish, including cloud and automation workflows.
 - Reduced repetitive editorial preparation and formatting work by up to 60% and improved content consistency through platform-specific adaptation.
 
-### BL Group | Team Lead / Lead Software Engineer | Jul 2018 - Jun 2022
+### BL Group | Team Lead / Lead Software Engineer | Apr 2017 - Jun 2022
 
 BL Group built engineering software products for lighting design, lighting calculations, and urban lighting workflows.
 

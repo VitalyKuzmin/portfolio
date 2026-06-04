@@ -8,7 +8,7 @@
 
 **Summary**
 
-Senior Agentic AI Engineer and Full Stack Engineer with 8+ years of experience building complex software systems and 3+ years specializing in LLM orchestration, agentic frameworks, RAG, LLM evaluation, and private/on-premise AI. Proven track record of transitioning traditional enterprise workflows into AI-driven ecosystems. Founder of [hAi](hAi.md), a local-first AI assistant with a public/open-source release planned. Deeply focused on AI agents, local models, LangGraph, MCP, and practical assistant platforms for real business systems.
+Senior Agentic AI Engineer and Full Stack Engineer with 9+ years of experience building complex software systems and 3+ years specializing in LLM orchestration, agentic frameworks, RAG, LLM evaluation, and private/on-premise AI. Proven track record of transitioning traditional enterprise workflows into AI-driven ecosystems. Founder of [hAi](hAi.md), a local-first AI assistant with a public/open-source release planned. Deeply focused on AI agents, local models, LangGraph, MCP, and practical assistant platforms for real business systems.
 
 ### Selected Projects
 
@@ -52,7 +52,7 @@ Senior Agentic AI Engineer and Full Stack Engineer with 8+ years of experience b
 - Tech Stack: Python, FastAPI, OpenAI API, Telegram API, REST APIs, CMS integrations, Google Cloud Platform (GCP), n8n, prompt engineering.
 
 **Team Lead / Lead Software Engineer**  
-*BL-Group | Jul 2018 - Jun 2022*
+*BL-Group | Apr 2017 - Jun 2022*
 
 - Grew from Full Stack Developer to Team Lead, managing cross-functional teams of up to 10 engineers across C++, Python, frontend, QA, design, and analytics.
 - **ML Reconstruction Platform:** Led the development of [Urban Lighting](Urban_Lighting.md), making field data reusable across reconstruction planning projects.
