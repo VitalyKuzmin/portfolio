@@ -1,14 +1,14 @@
 ### Vitaliy Kuzmin
 
-**Senior Agentic AI Engineer**
+**Lead AI Architect & Senior Engineer**
 
 | CV            | Email                                           | LinkedIn                                                               | Location         | Open to                       |
 | ------------- | ----------------------------------------------- | ---------------------------------------------------------------------- | ---------------- | ----------------------------- |
-| [PDF](CV.pdf) | [viton930@gmail.com](mailto:viton930@gmail.com) | [Vitaliy Kuzmin](https://www.linkedin.com/in/vitaliy-kuzmin-ai-engineer) | Tbilisi, Georgia | Remote / Full-time / Contract |
+| [PDF](CV.pdf) | [hello@hi-ai.app](mailto:hello@hi-ai.app) | [Vitaliy Kuzmin](https://www.linkedin.com/in/vitaly-k-ai-engineer) | Tbilisi, Georgia | Remote / Full-time / Contract |
 
 **Summary**
 
-Senior Agentic AI Engineer and Full Stack Engineer with 9+ years of experience building complex software systems and 3+ years specializing in LLM orchestration, agentic frameworks, RAG, LLM evaluation, and private/on-premise AI. Proven track record of transitioning traditional enterprise workflows into AI-driven ecosystems. Founder of [hAi](hAi.md), a local-first AI assistant with a public/open-source release planned. Deeply focused on AI agents, local models, LangGraph, MCP, and practical assistant platforms for real business systems.
+Lead AI Architect and Senior Engineer with 9+ years of experience building complex software systems and 3+ years specializing in multi-agent orchestration, local LLM infrastructure, RAG, LLM evaluation, and private/on-premise AI. Proven track record of transitioning traditional enterprise workflows into AI-driven ecosystems. Founder of [hAi](hAi.md), a local-first AI assistant with a public/open-source release planned. Deeply focused on AI agents, local models, LangGraph, MCP, and practical assistant platforms for real business systems.
 
 ### Selected Projects
 
@@ -21,7 +21,7 @@ Senior Agentic AI Engineer and Full Stack Engineer with 9+ years of experience b
 ### Experience
 
 **Lead AI Architect**  
-*InterProCom | Feb 2025 - Present*
+*InterProCom | Mar 2025 - Present*
 
 - Leading the development of [Axioma AI](Axioma_AI.md), an enterprise AI assistant platform for the Axioma asset management system used in the energy domain.
 - **Multi-Agent Orchestration:** Architected a multi-agent system using LangGraph, integrating specialized agents for SQL, norm-control, and domain RAG pipelines.
@@ -42,7 +42,7 @@ Senior Agentic AI Engineer and Full Stack Engineer with 9+ years of experience b
 - Tech Stack: Python, FastAPI, LangGraph, LangChain, LiveKit, React, Electron, SQLite, LanceDB, ActivityWatch, MCP, Ollama, Langfuse, GCP.
 
 **Lead AI Engineer**  
-*BL Group R&D Center | Jun 2022 - Feb 2025*
+*BL Group R&D Center | Jul 2022 - Mar 2025*
 
 - Led the development of [Smart Publish](Smart_Publish.md), an AI-assisted publishing platform, moving the idea from an early prototype toward a working LLM-powered product.
 - Architected an automated publishing workflow for raw news drafts from multiple channels, including email and Telegram.
@@ -52,7 +52,7 @@ Senior Agentic AI Engineer and Full Stack Engineer with 9+ years of experience b
 - Tech Stack: Python, FastAPI, OpenAI API, Telegram API, REST APIs, CMS integrations, Google Cloud Platform (GCP), n8n, prompt engineering.
 
 **Team Lead / Lead Software Engineer**  
-*BL-Group | Apr 2017 - Jun 2022*
+*BL Group | Apr 2017 - Jun 2022*
 
 - Grew from Full Stack Developer to Team Lead, managing cross-functional teams of up to 10 engineers across C++, Python, frontend, QA, design, and analytics.
 - **ML Reconstruction Platform:** Led the development of [Urban Lighting](Urban_Lighting.md), making field data reusable across reconstruction planning projects.
